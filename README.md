@@ -85,6 +85,8 @@ kr2-bootstrap-shop/
 
 [GitHub: kr2-bootstrap-shop](https://github.com/ashurvel-rgb/kr2-bootstrap-shop)
 
+Фото для Open Graph-превью: [Unsplash](https://unsplash.com/photos/VlgJiE4KQKg).
+
 ## Автор
 
 - ФИО: Велиханов Ашурбег Мадрудинович
